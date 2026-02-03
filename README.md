@@ -8,6 +8,7 @@
 ## 1. Problem Description (From Kaggle)
 
 ### Business Problem
+
 Shopping malls collect large amounts of customer data through membership cards, but often lack clear insights into how different types of customers behave. The business problem addressed in this project is how to segment customers into meaningful groups based on demographic and spending behavior, and how to identify unusual customers who may represent either valuable VIPs or potential data issues. These insights can support targeted marketing strategies, personalized promotions, and improved customer engagement. Unsupervised learning is appropriate because the dataset does not contain predefined labels or known customer segments. Instead of predicting an outcome, the goal is to discover patterns and structures within the data. Techniques such as clustering, dimensionality reduction, and anomaly detection is used to explore customer behavior.
 ---
 
